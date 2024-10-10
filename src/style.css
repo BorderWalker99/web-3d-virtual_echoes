@@ -1546,18 +1546,21 @@ body {
     background-image: url('../static/images/moon-preview-small.webp');
     background-size: cover;
     border-radius: 2vmin;
+    overflow: hidden;
 }
 
 .card-2 .card {
     background-image: url('../static/images/mars-preview-small.webp');
     background-size: cover;
     border-radius: 2vmin;
+    overflow: hidden;
 }
 
 .card-3 .card {
     background-image: url('../static/images/forest-preview-small.webp');
     background-size: cover;
     border-radius: 2vmin;
+    overflow: hidden;
 }
 
 /* Medium-sized image for tablet devices */
