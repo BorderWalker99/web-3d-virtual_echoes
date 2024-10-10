@@ -1605,7 +1605,7 @@ body {
 
 /** Ray effect on the card **/
 .ray {
-    width: 30vmin;
+    width: 70vmin;
     height: 7vmin;
     min-width: 187.5px;
     min-height: 43.75px;
