@@ -1544,17 +1544,14 @@ body {
 /* Default background image is small for mobile devices */
 .card-1 .card {
     background-image: url('../static/images/moon-preview-small.webp');
-    background-size: cover;
 }
 
 .card-2 .card {
     background-image: url('../static/images/mars-preview-small.webp');
-    background-size: cover;
 }
 
 .card-3 .card {
     background-image: url('../static/images/forest-preview-small.webp');
-    background-size: cover;
 }
 
 /* Medium-sized image for tablet devices */
@@ -1603,6 +1600,7 @@ body {
     color: #fff;
     user-select: none;
     overflow: hidden;
+    background-size: cover;
 }
 
 /** Ray effect on the card **/
